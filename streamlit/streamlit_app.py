@@ -18,7 +18,7 @@ page_data_advanced = st.Page(
 )
 
 
-# Navigation menu
+# --- Navigation menu ----
 pg = st.navigation(pages=[page_home, page_data_table, page_data_advanced])
 # Run navigation
 pg.run()
