@@ -1,4 +1,6 @@
 import streamlit as st
+import pandas as pd
+
 
 # --- Page setup ---
 page_home = st.Page(
